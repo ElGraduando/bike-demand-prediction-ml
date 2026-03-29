@@ -33,7 +33,6 @@ The models provided insights into demand behavior and identified key variables i
 ## Repository Structure
 - `notebooks/`: analysis and experimentation
 - `src/`: modular code
-- `data/`: dataset (if included)
-
+- `data/`: dataset
 ## Author
 Andres Rico Quintero
